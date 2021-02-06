@@ -38,7 +38,9 @@ const Header = () => {
             </label>
             <HeaderButton/>
             </div>
-            <img id="not-dark" onClick={scrollTo} alt="Go to top" title="Go to top" className="gtp" src="profile.png"></img>
+{
+    //             <img id="not-dark" onClick={scrollTo} alt="Go to top" title="Go to top" className="gtp" src="https://avatars.githubusercontent.com/u/42577709?s=460&u=75e07ddc925acb04bf5c2a4e58bdffcb973175a3&v=4"></img>
+}
         </div>
     )
     
