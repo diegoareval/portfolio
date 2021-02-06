@@ -101,7 +101,7 @@ const section5Title = "Get in Touch"
 const contact = {
     pitch: "Let's Keep in youch, will be a pleasure to help you",
     copyright: "Diego Arevalo",
-    contactUrl: ''
+    contactUrl: 'https://formspree.io/mgepqppo'
 }
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
