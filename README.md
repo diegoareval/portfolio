@@ -5,7 +5,7 @@
 
 <p align="center">
   <kbd>
-<img src="https://github.com/kaustubhai/portfolio-template/blob/master/public/portfolio-example.gif?raw=true"></img>
+<img src="them"></img>
   </kbd>
 </p>
 
@@ -15,10 +15,8 @@ Just change `src/profile.js` to get your personal portfolio. Feel free to use it
 To Update the image go to `src/styles/images.css`  
 To change colors, go to `src/styles/style.css`
 
-But if you want to **contribute** and make this much better for other developer raise a [Issue](https://github.com/kaustubhai/portfolio-template/issues).
 
 
-If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/kaustubhai/portfolio-template/pulls).
 
 ## Table of Contents
 - [Sections](#sections)
@@ -36,7 +34,6 @@ If you created something awesome and want to contribute then feel free to open a
 ✔️ Contact Form\
 ✔️ Social Profile\
 
-To view a live example, **[click here](https://kaustubhai.netlify.app/)**.
 
 
 ## Getting Started
@@ -58,7 +55,7 @@ From your command line, clone and run developerFolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/kaustubhai/portfolio-template.git
+$ git clone https://github.com/diegoareval/portfolio.git
 
 # Go into the repository
 $ cd portfolio-template
@@ -104,13 +101,13 @@ We highly recommend to read through the [Deploying on Github Pages](https://crea
 
 You could also host directly with Netlify by linking your own repository.
 
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kaustubhai/portfolio-template)
+[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](your)
 
 For more information, read [hosting on Netlify](https://create-react-app.dev/docs/deployment/#netlify).
 
 
 ## For the Future
-If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/kaustubhai/portfolio-template/pulls).
+If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/diegoareval/portfolio/pulls).
 
 - Connect with Github API to get Pinned Projects directly
 

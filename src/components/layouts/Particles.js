@@ -1,11 +1,10 @@
 import React from 'react'
 import Particles from 'react-particles-js'
-import { background } from '../../profile'
 
-const ParticlesBackground = () => {
+const ParticlesBackground = ({type = 'Particle'}) => {
     return (
         <div className="particle">
-            { background.type === 'Snow' && <Particles
+            { type === 'Snow' && <Particles
             height="100vh"
             width="100%"
                 params={{
@@ -45,7 +44,7 @@ const ParticlesBackground = () => {
                     }
                 }
             }} />}
-            { background.type === 'Particle' && <Particles
+            { type === 'Particle' && <Particles
             height= "100vh"
             width= "100vw"
             params={{
