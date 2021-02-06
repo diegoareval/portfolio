@@ -4,13 +4,6 @@ import { header } from '../../profile'
 
 const Header = () => {
 
-    const scrollTo = () => {
-        window.scrollTo({
-            top: 0,
-            left: 0,
-            behavior: "smooth"
-        })
-    }
 
     const toggleDarkMode = () =>  {
         document.documentElement.classList.toggle('dark-mode')
